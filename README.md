@@ -3,8 +3,8 @@
 
 ## 👤 Datos del Estudiante
 - **Nombre completo:** Fernando Olivares
-- **Código:** [Tu código universitario]
-- **Correo institucional:** [tu_codigo@unsch.edu.pe]
+- **Código:** 27210125
+- **Correo institucional:** [fenando.olivares.27@unsch.edu.pe]
 
 ## 📚 Descripción del Curso
 **IS-488 Arquitectura de Software** - Semestre 2026-II
