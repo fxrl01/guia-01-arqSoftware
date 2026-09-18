@@ -4,7 +4,7 @@
 ## 👤 Datos del Estudiante
 - **Nombre completo:** Fernando Olivares
 - **Código:** [Tu código universitario]
-- **Correo institucional:** [tu_codigo@unsch.edu.pe]
+- **Correo institucional:** [fernando.olivares.27@unsch.edu.pe]
 
 ## 📚 Descripción del Curso
 **IS-488 Arquitectura de Software** - Semestre 2026-II
@@ -31,3 +31,18 @@ Curso orientado a comprender y aplicar los principios, patrones y decisiones que
 ### Paso 3: Estructura del proyecto
 ![Estructura de carpetas](./docs/img/paso3-estructura.png)
 "@ | Set-Content -Path README.md
+
+Directory structure:
+└── guia-01-arqSoftware/
+    ├── docs/
+    │   ├── 00-caso-de-estudio.md
+    │   ├── decisiones/
+    │   │   └── ADR-000-plantilla.md
+    │   └── img/
+    ├── package-lock.json
+    ├── package.json
+    ├── README.md
+    ├── src/
+    │   ├── app.js
+    │   └── server.js
+    └── tests/
